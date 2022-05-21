@@ -7,9 +7,17 @@
 
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Jeolpaul/TG-Group-Manager)<br>
 
-### Developers 
+### Developer
 <a href="https://t.me/JP_Jeol_org"><img src="https://img.shields.io/badge/JP%20 JEOL-ReD.svg?style=for-the-badge&logo=Python"></a>
 
+### CREDITS
+<h2 align="center">
+    ──「 CREDIT 」──
+</h2>
+
+<p align="center">
+<a href="https://github.com/MRK-YT"> <img src="https://img.shields.io/badge/Vain-Github-magenta?style=for-the-badge&logo=github" alt="MRK-YT Github" /> </a>
+</p>
 
 ## Starting the bot.
 
