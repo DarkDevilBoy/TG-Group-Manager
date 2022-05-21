@@ -7,6 +7,9 @@
 
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Jeolpaul/TG-Group-Manager)<br>
 
+### Developers 
+<a href="https://t.me/JP_Jeol_org"><img src="https://img.shields.io/badge/JP%20 JEOL-ReD.svg?style=for-the-badge&logo=Python"></a>
+
 
 ## Starting the bot.
 
