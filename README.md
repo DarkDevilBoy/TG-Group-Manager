@@ -16,7 +16,7 @@
 </h2>
 
 <p align="center">
-<a href="https://github.com/MRK-YT"> <img src="https://img.shields.io/badge/Vain-Github-magenta?style=for-the-badge&logo=github" alt="MRK-YT Github" /> </a>
+<a href="https://github.com/MRK-YT"> <img src="https://img.shields.io/badge/MRK-YT-Github-magenta?style=for-the-badge&logo=github" alt="MRK-YT Github" /> </a>
 </p>
 
 ## Starting the bot.
