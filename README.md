@@ -1,5 +1,12 @@
 # TG-Group-Manager
-A Telegram Group Manager Bot
+
+![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=welcome+To+TG-Group-Manager+Repo!;A+simple+Group+manager+bot!;and+all+futures!)
+</p>
+
+## HEROKU DEPLOYMENT
+
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Jeolpaul/TG-Group-Manager)<br>
+
 
 ## Starting the bot.
 
