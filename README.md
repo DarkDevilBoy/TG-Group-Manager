@@ -7,10 +7,11 @@
 
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Jeolpaul/TG-Group-Manager)<br>
 
-### Developer
+<h2 align="center">
+    ──「 DEVELOPER 」──
+</h2>
 <a href="https://t.me/JP_Jeol_org"><img src="https://img.shields.io/badge/JP%20 JEOL-ReD.svg?style=for-the-badge&logo=Python"></a>
 
-### CREDITS
 <h2 align="center">
     ──「 CREDIT 」──
 </h2>
