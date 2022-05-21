@@ -10,7 +10,7 @@
 <h2 align="center">
     ──「 DEVELOPER 」──
 </h2>
-<a href="https://t.me/JP_Jeol_org"><img src="https://img.shields.io/badge/JP%20 JEOL-ReD.svg?style=for-the-badge&logo=Python"></a>
+<a href="https://t.me/JP_Jeol_org"><img src="https://img.shields.io/badge/JEOL-ReD.svg?style=for-the-badge&logo=Python"></a>
 
 <h2 align="center">
     ──「 CREDIT 」──
