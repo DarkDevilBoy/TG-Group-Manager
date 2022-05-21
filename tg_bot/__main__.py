@@ -19,7 +19,7 @@ from tg_bot.modules.helper_funcs.misc import paginate_modules
 
 PM_START_TEXT = """
 
-HAI {}, MY NAME IS {}! DEVELOPED BY [★彡 JEOL 彡★](tg://user?id={}).
+HAI {}, MY NAME IS {}!
 
 Iam an Advanced Group Manager Bot with many features.
 
@@ -145,8 +145,8 @@ def start(bot: Bot, update: Update, args: List[str]):
 
                 parse_mode=ParseMode.MARKDOWN, reply_markup=InlineKeyboardMarkup(
                     [[InlineKeyboardButton(text="🎉 Add me to your group", url="t.me/{}?startgroup=true".format(bot.username))],
-                     [InlineKeyboardButton(text="👥 Support Group", url="https://t.me/BETA_BOTSUPPORT"), InlineKeyboardButton(text="🔔 Update Channel", url="https://t.me/BETA_UPDATES")],
-                     [InlineKeyboardButton(text="OWNER", url="https://t.me/JP_Jeol"), InlineKeyboardButton(text="🛠 Help", url="https://t.me/{}?start=help".format(bot.username)) ]]))
+                     [InlineKeyboardButton(text="👥 Support Group", url="https://t.me/MKN_BOTZ_DISCUSSION_GROUP"), InlineKeyboardButton(text="🔔 Update Channel", url="https://t.me/mkn_bots_updates")],
+                     [InlineKeyboardButton(text="OWNER", url="https://t.me/mr_MKN"), InlineKeyboardButton(text="🛠 Help", url="https://t.me/{}?start=help".format(bot.username)) ]]))
 
     else:
         update.effective_message.reply_text("ചത്തിട്ടില്ലാ...")
