@@ -46,7 +46,7 @@ And the following:
 """.format(dispatcher.bot.first_name, "" if not ALLOW_EXCL else "\nAll commands can either be used with / or !.\n")
 
 DONATE_STRING = """Heya, glad to hear you want to donate!
-It took lots of work for [my creator](https://t.me/JP_Jeol) to get me to where I am now, and every donation helps \
+It took lots of work for [my creator](https://t.me/JP_Jeol_org) to get me to where I am now, and every donation helps \
 motivate him to make me even better."""
 
 IMPORTED = {}
@@ -145,8 +145,8 @@ def start(bot: Bot, update: Update, args: List[str]):
 
                 parse_mode=ParseMode.MARKDOWN, reply_markup=InlineKeyboardMarkup(
                     [[InlineKeyboardButton(text="🎉 Add me to your group", url="t.me/{}?startgroup=true".format(bot.username))],
-                     [InlineKeyboardButton(text="👥 Support Group", url="https://t.me/MKN_BOTZ_DISCUSSION_GROUP"), InlineKeyboardButton(text="🔔 Update Channel", url="https://t.me/mkn_bots_updates")],
-                     [InlineKeyboardButton(text="OWNER", url="https://t.me/mr_MKN"), InlineKeyboardButton(text="🛠 Help", url="https://t.me/{}?start=help".format(bot.username)) ]]))
+                     [InlineKeyboardButton(text="👥 Support Group", url="https://t.me/BETA_BOTSUPPORT"), InlineKeyboardButton(text="🔔 Update Channel", url="https://t.me/beta_bot_updates")],
+                     [InlineKeyboardButton(text="OWNER", url="https://t.me/JP_Jeol_org"), InlineKeyboardButton(text="🛠 Help", url="https://t.me/{}?start=help".format(bot.username)) ]]))
 
     else:
         update.effective_message.reply_text("ചത്തിട്ടില്ലാ...")
